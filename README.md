@@ -297,6 +297,3 @@ root@nixbof32skills:/home/htb-student# id
 uid=0(root) gid=1001(htb-student) groups=1001(htb-student)
 
 ```
-
-
-**Answer:** HTB{wmcaJe4dEFZ3pbgDEpToJxFwvTEP4t}
